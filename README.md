@@ -22,7 +22,10 @@ It demonstrates how to set up a message broker, configure producers and consumer
 <br>
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
 ---
 
